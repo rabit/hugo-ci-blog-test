@@ -1,5 +1,7 @@
 ## hugo-ci-blog-test
-This is a test repo for deploying hugo static site with Travis CI to Github Pages, [`DEMO`](https://rabit.github.io/hugo-ci-blog-test/)
+This is a test repo for deploying hugo static site with Travis CI to Github Pages, [`DEMO Site`](https://rabit.github.io/hugo-ci-blog-test/)
+
+[![Build Status](https://travis-ci.com/rabit/hugo-ci-blog-test.svg?branch=master)](https://travis-ci.com/rabit/hugo-ci-blog-test)
 
 ## Related link
 
@@ -19,4 +21,3 @@ This is a test repo for deploying hugo static site with Travis CI to Github Page
 ### Writing tools
 - [在Vim中用Markdown写Hugo · 零壹軒·笔记](http://note.qidong.name/2017/07/01/vim-markdown-for-hugo/)
 - [Markdown 的文章目录在 Vim 里的终极解决方案](https://zhuanlan.zhihu.com/p/23177670)
-- 
