@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rabit.github.io/hugo-ci-blog-test/sitemap.xml
